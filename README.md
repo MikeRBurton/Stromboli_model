@@ -7,3 +7,5 @@ There are 5 ODEs, with a state vector made of of Pdeep, shallow reservoir mass, 
 Params.py contains all the variables for the model and coupled_all_driver.py is the main program. This version of the code shows evolution to a steady state which approximates the reality of magma flow on Stromboli.
 
 This code is part of a paper which is under development.
+
+To run the code, produce an environmwnt with python 3.10 and Scipy, numpy, pandas and matplotlib installed.
