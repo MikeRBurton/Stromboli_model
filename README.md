@@ -9,3 +9,5 @@ Params.py contains all the variables for the model and coupled_all_driver.py is 
 This code is part of a paper which is under development.
 
 To run the code, produce an environmwnt with python 3.10 and Scipy, numpy, pandas and matplotlib installed.
+
+The overall code was designed and written by Mike Burton with support from ChatGPT, the exchange_flow code was written by Chris Johnson.
